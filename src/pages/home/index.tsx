@@ -51,15 +51,15 @@ export const Home = (): JSX.Element => {
               <Text as="span" type="heading1" color="brand1">
                 love
               </Text>{" "}
-              creating and{" "}
+              solve problems and{" "}
               <Text as="span" type="heading1" color="brand1">
                 developing
               </Text>{" "}
               projects
             </Text>
             <Text type="body1" color="grey2">
-              Discover here in this environment, created especially for you, all
-              my projects and technologies
+              I started in tech area at 17 years old, has always been my passion and now, i'm looking for a job opportunity.
+              Look at my projects maked in Kenzie Academy Brasil, over a year exploring my hard skills.
             </Text>
             <HeaderButtonsArea>
               <Button as="a" type="primary" href="#projects">
