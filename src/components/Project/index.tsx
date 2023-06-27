@@ -19,6 +19,7 @@ interface ReposType {
   description: string;
   html_url: string;
   homepage: string;
+  vercel: string;
 }
 
 export const Project = (): JSX.Element => {
